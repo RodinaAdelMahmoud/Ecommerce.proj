@@ -2,7 +2,7 @@
   "name": "proj",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://RodinaAdelMahmoud.github.io/Ecommerce",
+  "homepage": "https://RodinaAdelMahmoud.github.io/Ecommerce.proj",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.1",
     "@testing-library/jest-dom": "^5.17.0",
